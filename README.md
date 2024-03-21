@@ -3,12 +3,7 @@
 </div>  
   
 
-### <div align="center">JavaScript Full Stack Developer</div>  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
+### <div align="center">Full Stack Developer</div>  
 <br/>  
 
 
